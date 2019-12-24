@@ -1,4 +1,5 @@
 export const palette = {
+  primaria: "#00249C",
   black: "#1d1d1d",
   white: "#ffffff",
   offWhite: "#e6e6e6",
